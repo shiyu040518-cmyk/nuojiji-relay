@@ -15,7 +15,7 @@
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/wcl20071005/nuojiji-relay)
 
-**三步搞定（全程网页点击，不用装任何东西）：**
+**三步搞定（全程的网页点击，不用装任何东西）：**
 
 1. 点上面的 **Deploy to Cloudflare** 按钮 → 用 Cloudflare 账号登录（没有就免费注册）
 2. 在部署页：
